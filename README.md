@@ -1,4 +1,4 @@
-# convid_conclusao
+# covid_conclusao
 
 ## Project setup
 ```
